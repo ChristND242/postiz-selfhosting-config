@@ -204,7 +204,7 @@ NEXT_PUBLIC_BACKEND_URL: "http://domain:5000/api"
 * Domain mismatch (IP vs domain vs localhost)
 * Known Postiz cookie-domain issue
 
-## Fix 3: Use Proper Domain or localhost
+## Fix: Use Proper Domain or localhost
 
 ### Postiz Env
 
