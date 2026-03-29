@@ -1,4 +1,4 @@
-# Postiz Self-Hosting some known Report & Resolution Guide
+# Postiz Self-Hosting some known Issues & Resolution Guide
 
 ## Overview
 
